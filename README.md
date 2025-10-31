@@ -55,8 +55,9 @@ By predicting churn, telecom companies can identify customers at risk of leaving
 
 - *Name:* Arshia Estineh  
 - *Email:* [Arshiaestineh2005@icloud.com](mailto:Arshiaestineh2005@icloud.com)  
-- *GitHub:* [Arshiestineh2563](https://github.com/Arshiestineh2563)  
+- *GitHub:* [Arshia-estineh2563](https://github.com/Arshia-estineh2563)  
 
 ---
+
 
 ✨ This project was created as a machine learning case study on predicting customer churn in telecom. Contributions and suggestions are welcome!

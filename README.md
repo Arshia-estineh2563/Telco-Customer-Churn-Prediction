@@ -61,3 +61,7 @@ By predicting churn, telecom companies can identify customers at risk of leaving
 
 
 ✨ This project was created as a machine learning case study on predicting customer churn in telecom. Contributions and suggestions are welcome!
+
+
+
+ 

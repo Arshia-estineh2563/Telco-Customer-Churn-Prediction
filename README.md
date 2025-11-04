@@ -3,7 +3,8 @@
 This project focuses on building and evaluating machine learning models to predict *customer churn* using the *Telco Customer Churn dataset*.  
 By predicting churn, telecom companies can identify customers at risk of leaving and take proactive actions to improve retention.  
 
----
+----
+
 
 ## 📌 Project Overview  
 
@@ -65,3 +66,4 @@ By predicting churn, telecom companies can identify customers at risk of leaving
 
 
  
+
